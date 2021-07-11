@@ -104,6 +104,7 @@ footer{
     right: 0;
     background-color: blue;
     display: inline-block;
+    clear:both;
 
 }
 h4{
